@@ -1,16 +1,14 @@
 export const metaData = {
-  baseUrl: "https://astrofolio-astro.vercel.app/",
-  title: "Astrofolio",
-  name: "Vikas",
-  ogImage: "/opengraph-image.png",
-  description:
-    "A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.",
+  baseUrl: "https://panjipangestu.pages.dev/"
+  title: "Panji Pangestu | Food Technologist & Digital Builder",
+  name: "Panji Pangestu",
+  ogImage: "/opengraph-image.png"
+  description: "Food Technologist dengan pengalaman R&D, QA/QC, dan produksi, yang juga membangun sistem ERP dan desain visual untuk industri makanan.",
 };
 
 export const socialLinks = {
-  twitter: "https://x.com/vikas5914",
-  github: "https://github.com/vikas5914/Astrofolio",
-  instagram: "https://www.instagram.com/",
-  linkedin: "https://www.linkedin.com/",
-  email: "mailto:example@gmail.com",
+  linkedin: "https://linkedin.com/in/panjipangestu",
+  email: "mailto:panjipangestu25@gmail.com",
+  instagram: "https://www.instagram.com/phipangestu",
+  github: "https://github.com/panpangestu",
 };
