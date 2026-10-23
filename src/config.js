@@ -2,7 +2,7 @@ export const metaData = {
   baseUrl: "https://panjipangestu.pages.dev/"
   title: "Panji Pangestu | Food Technologist & Digital Builder",
   name: "Panji Pangestu",
-  ogImage: "/opengraph-image.png"
+  ogImage: ""astropaper-og.jpg""
   description: "Food Technologist dengan pengalaman R&D, QA/QC, dan produksi, yang juga membangun sistem ERP dan desain visual untuk industri makanan.",
 };
 
